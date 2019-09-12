@@ -1,0 +1,1 @@
+Holder for 3x3cm samples with legs to allow free movement to the stir magnetic bar.
