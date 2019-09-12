@@ -1,0 +1,1 @@
+Holder for 3x3cm devices with improved capacity and styled edges.
